@@ -17,8 +17,10 @@ Atualmente, estou empenhado em aprofundar meu conhecimento em desenvolvimento de
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="c#" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <br/>
-    
 </div>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbarros&hide=javascript,html)
 
 ## Contato
 
