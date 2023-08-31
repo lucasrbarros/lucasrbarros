@@ -20,7 +20,7 @@ Atualmente, estou empenhado em aprofundar meu conhecimento em desenvolvimento de
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbarros&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbarros&layout=compact)
 
 ## Contato
 
